@@ -1,0 +1,13 @@
+h3{
+	font-size: 30px;
+	color: blue;
+	border: 5px double darkred;
+	 border-width: 5px;
+        border-style: dashed;
+        border color: red;
+}
+p3{
+    font-size: 30px;
+	color: yellow;
+        background: black;
+}
